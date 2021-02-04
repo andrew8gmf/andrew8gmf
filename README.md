@@ -2,4 +2,4 @@
 
 <h2 id="title" align="center">I'm Andrew Fernandes 👦</h2>
 
-<h3 id="title" align="center">📚 I'm currently studying Big Data in Agribusiness</h3>
+<h2 id="title" align="center">📚 I'm currently studying Big Data in Agribusiness</h2>
