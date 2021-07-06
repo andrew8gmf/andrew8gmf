@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+# Hi there! 👋
+### I'm Andrew Fernandes 👨‍💻
 
-<h2 align="center">I'm Andrew Fernandes 👦</h2>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew8gmf&layout=compact)
 
-<h3 align="center">📚 I'm currently studying Big Data in Agribusiness</h2>
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew8gmf&count_private=true&show_icons=true)
